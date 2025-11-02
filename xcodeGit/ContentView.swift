@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("初めてのコミット")
             //2回目のコミット
             //3回目のコミット
+            //リモートリポ接続
         }
         .padding()
     }
